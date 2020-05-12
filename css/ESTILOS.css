@@ -1,0 +1,33 @@
+body {
+    background-color: darkgray;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.menu ul {
+    background-color: cadetblue ;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    list-style: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover { 
+    text-decoration: underline;
+}
+
+.site-title,
+.site-subtitle {
+    color: black;
+    text-align: center;
+}
+
